@@ -8,7 +8,7 @@
   
 + abra o cmd na pasta desejada
   
-+ digite no cmd: git clone [https://github.com/Dev-Leonardo-Wolff/TGE](https://github.com/Leonardo-Kotcheski-Filipiaki/Trabalho-de-Conclusao.git)
++ digite no cmd: git clone https://github.com/Leonardo-Kotcheski-Filipiaki/Trabalho-de-Conclusao.git
   
 + dê import no banco de dados mysql
 
