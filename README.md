@@ -1,5 +1,10 @@
 # The Gamers Encounter
-  
+##Creditos
+
++ Leonardo Kotcheski Filipiaki - Contruiu todo o back-end do projeto.
+
++ Leonardo Wolff - Construi todas as paginas, design, front-end do projeto.
+![link](https://github.com/Dev-Leonardo-Wolff)
 ## Como utilizar
   
 + abra o cmd na pasta desejada
@@ -8,6 +13,11 @@
   
 + dê import no banco de dados mysql
 
+## Dicas importantes
+
++ vá para o diretorio login/loginGoogleContents, abra no prompt de comando(cmd) e escreva o seguinte comando "composer update", o comando irá criar arquivos importantes para o funcionamento do login com google.
+
++ não esqueça de criar os bancos de dados com os arquivos .sql fornecidos
 ## algumas prints do site
   
 ### Home
