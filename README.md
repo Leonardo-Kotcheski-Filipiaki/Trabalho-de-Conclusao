@@ -4,7 +4,7 @@
 + Leonardo Kotcheski Filipiaki - Contruiu todo o back-end do projeto.
 
 + Leonardo Wolff - Construi todas as paginas, design, front-end do projeto.
-!https://github.com/Dev-Leonardo-Wolff
++ https://github.com/Dev-Leonardo-Wolff
 ## Como utilizar
   
 + abra o cmd na pasta desejada
