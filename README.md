@@ -1,5 +1,5 @@
 # The Gamers Encounter
-##Creditos
+## Creditos
 + Leonardo Kotcheski Filipiaki - Contruiu todo o back-end do projeto.
 
 + Leonardo Wolff - Construi todas as paginas, design, front-end do projeto.
